@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "OrangeHRM Login",
+    "children" : [ {
+      "name" : "Login to OrangeHRM with valid parameters",
+      "uid" : "8efc5c2e9356cfa5",
+      "parentUid" : "8c1895e6cb51ad97260120776cf994ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631439944377,
+        "stop" : 1631439957456,
+        "duration" : 13079
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8c1895e6cb51ad97260120776cf994ae"
+  }, {
+    "name" : "OrangeHRM Logo",
+    "children" : [ {
+      "name" : "Logo presence on OrangeHRM home page",
+      "uid" : "1b1d456e18a6917d",
+      "parentUid" : "66cc24cb75c3f2460d5b35d178c90d4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631439957464,
+        "stop" : 1631439965177,
+        "duration" : 7713
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "66cc24cb75c3f2460d5b35d178c90d4f"
+  } ]
+}
